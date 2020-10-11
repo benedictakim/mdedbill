@@ -40,3 +40,5 @@ bill status
 Kirwan
 
 4.Find your rep, iframe mga page
+
+Committees: buttons list to link to filtered display of profiles
